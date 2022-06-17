@@ -1,5 +1,5 @@
 # FlightsPrice
-HAVE YOU EVER WONDERED WHEN IS THE BEST TIME TO BUY A TICKET? 
+HAVE YOU EVER WONDERED WHEN IS THE BEST TIME TO BUY A TICKET? <br/>
 We've created a dataset of Ryanair flights and we've tried to predict the price based on the period of the year, the day of the week, and many other features. 
 The best model allows to choose the best flight with a margin of error of 9 euros but could be easily improved with a larger dataset.
 To use the built system we just have to choose the date of the flight, the departure airport, and the arrival one and it will predict the price behavior.
